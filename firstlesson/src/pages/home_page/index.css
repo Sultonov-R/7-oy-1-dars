@@ -1,0 +1,23 @@
+.book-info{
+    width: 500px;
+    margin: 300px auto;
+    background-color:transparent;
+    display: flex;
+    flex-direction: column;
+    border:10px;
+    border-color: aqua;
+}
+.input-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.input-btn input{
+    width: 70%;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.input-btn button{
+    width: 20%;
+    margin-top: 10px;
+}
